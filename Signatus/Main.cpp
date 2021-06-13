@@ -1,4 +1,4 @@
-// Signatus - Vulnerable C server
+// Signatus - Vulnerable C++ server
 // Created while preparing for OSED
 // William Moody, 12.06.2021
 
@@ -26,7 +26,7 @@ void handleOpcode(DWORD opcode)
 {
     if (opcode == 0x1)
     {
-
+        
     }
     else if (opcode == 0x2)
     {
