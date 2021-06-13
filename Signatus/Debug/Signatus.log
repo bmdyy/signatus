@@ -1,3 +1,2 @@
 ﻿  Main.cpp
-Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
   Signatus.vcxproj -> C:\Users\bill\Desktop\Signatus\Debug\Signatus.exe
